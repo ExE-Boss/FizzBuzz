@@ -1,0 +1,21 @@
+# Ignore Everything
+/*
+
+# Sources
+!/src
+
+# Git
+!.gitattributes
+!.gitignore
+!README*
+!LICENSE*
+
+# gradle
+!/build.gradle
+!/build.properties
+!/settings.gradle
+!/gradle.properties
+!/gradlew*
+!/gradle
+
+# Unwanted crap
